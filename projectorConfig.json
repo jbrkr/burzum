@@ -7,7 +7,7 @@
         768
       ],
       "tensorPath": "https://raw.githubusercontent.com/jbrkr/burzum/main/output.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/jbrkr/burzum/main/optional.metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/jbrkr/burzum/main/metadata.tsv"
     }
   ]
 }
