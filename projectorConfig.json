@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Burzum, sentence level",
+      "tensorName": "Burzum-sentence level",
       "tensorShape": [
         1846,
         768
