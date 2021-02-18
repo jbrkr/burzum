@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Burzum, sentence level",
+      "tensorShape": [
+        1846,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/jbrkr/burzum/main/output.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jbrkr/burzum/main/metadata.tsv"
+    }
+  ]
+}
