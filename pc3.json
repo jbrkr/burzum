@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "all----sentence level----paraphrase-xlm-r-multilingual-v1",
+      "tensorShape": [
+        27400,
+        768
+      ],
+      "tensorPath": "https://gitlab.com/joe.r.brucker/metal/-/raw/master/output3.tsv",
+      "metadataPath": "https://gitlab.com/joe.r.brucker/metal/-/raw/master/metadata3.tsv"
+    }
+  ]
+}
